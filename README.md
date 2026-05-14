@@ -1,1 +1,2 @@
-# UFC_Data_Analysis for USD's AAI 500 M.S. Applied Artificial Intelligence Final Group Project
+# UFC_Data_Analysis
+USD's AAI 500 M.S. Applied Artificial Intelligence Final Group Project
